@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "how wannacry freaked me out"
-date:   2025-10-07 05:07:15
+date:   2025-10-07
 ---
 i still remember the first time i heard of a really impacting malware, even though i was young i still remember it, and it was wannacry. not just because it was everywhere on the news, but because it made me stop and go, wait.. we literally rely on machines for everything now?? like hospitals, banks, government stuff: all frozen because some random code was propagated everywhere. it's honestly wild, buttt fascinating
 
