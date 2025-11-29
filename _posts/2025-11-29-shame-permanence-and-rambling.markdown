@@ -1,0 +1,22 @@
+---
+layout: default
+title:  "shame, permanence and rambling"
+date:   2025-11-29
+---
+i spent today clicking through my old github repos and hitting private on most of them. three quarters of everything i've ever pushed. it's not like they were terrible (well, most were), just, like, not me. or atleast, not the way i want to be seen. some of the code works, some of it is sloppy, some of it is fine but its from a time when i didnt really know what i wanted to do yet.
+
+this feeling of shame over something you made yourself is weird. pride is easier because it just goes like: you made something, it exists, it did something. but shame is weird because its about what it does, its about what it says about you. and i guess i dont want those old repos to say that about me.
+
+maybe its vain and ridiculous to care so much about how someone interprets your old code. its just code. but somehow it carries way more weight than i thought it would, i interpret it as a huge message that says "this was me", and im not sure i like that message anymore
+
+so i think what bothers me the most is the permanence
+
+permanence is WEIRD, its something that owns a piece of you once you release something yk. sometimes i think about other things in the same way. old messages or random notebooks where i wrote down dumb ideas that seemed brilliant at the time. oh god my old texts i hate them. i scroll through them sometimes and its like.. excuse me WHO wrote this?? i sound so different. and weirdly in a lot of ways i sound smarter too?? idk like not too long ago i was reading a sentence i typed three or four years ago and i thought "wow thats.. pretty coherent actually, why cant i say things like that now??" and then immediately felt guilty, like im failiing some invisible standard i set for myself or something
+
+well its not even real intelligence actually, its just like the snapshot of a brain at a specific time, saying things in a certain way, being a certain person. and THATS the thing: we're constantly rewriting ourselves. and when i go back and see the old version, the old me, its like meeting a stranger who used to live inside me. sometimes i miss her but most of the time i just want to punch her because i was so mean for nothing to people
+
+the weird part is, im still her, right?? like everything i am now is stacked on top of that, including the cringe, including the flashes of "bro i was kind of smart back then", its all part of me??
+
+talking of remembering old things, i remember some hyper specific moments from years ago too, something dumb like the exact hour of when i played sm64 at my grandparents house while they were talking with my parents or stuff like that, and it sticks forever while important stuff just evaporates. why does my brain keep the most useless things?? like hello?? i dont need to remember that shit but for some reason its stored in fucking 4k while half the things i say today get lost instantly. and sometimes it scares me, like REALLY scares me, because i start thinking what if my brain just starts forgetting the important stuff?? what if this hyper specific nonsense i cling to is all that survives and the rest just fades?? i have this fear that i might have some memory problem creeping up, but im too scared to even bring it up to anyone. i imagine doctors asking questions i cant answer or forgetting things mid-conversation, or not remembering important people in my life, and it twists my stomach, but i cant talk about it so it just sits there in the back of my head. i catch myself double-checking little things, overexplaining memories to myself so i can "prove" that i still remember them even though its irrational. its exhausting honestly. i think about like how memories arent just stored neatly on a hard drive somewhere, they're floating around in this weird soup of neurons and attention and stress and randomness. and tbh i might be saying bullshit because im not well informed about how all of that works, but one day something tiny like a word, a smell or a song could just wipe a chunk out without warning?? and maybe everyone deals with it eventually, but yeah
+
+anyways i guess thats enough for now. sorry for rambling. tl;dr: i privated most of my github repos
